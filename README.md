@@ -1,5 +1,6 @@
 ### Para iniciar a aplicação:
 <P>python manage.py runserver</P>
+<p>python manage.py tailwind start</p>
 
 #### Tutorias e links usados para a criação:
 #### [Integrar Tailwind no Django](https://youtu.be/76n7sqZocSk?si=dC0wsaCQ0XODXJbc)
